@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.b52a8cd0.css",
+    "main.js": "/portfolio/static/js/main.245e7325.js",
+    "static/js/787.2dcca737.chunk.js": "/portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/profile-2.PNG": "/portfolio/static/media/profile-2.abfa06e0e4bc2609ce39.PNG",
+    "static/media/portfolio-about.png": "/portfolio/static/media/portfolio-about.4f5697392f9f20ad5227.png",
+    "static/media/savedRecipes-1.png": "/portfolio/static/media/savedRecipes-1.aeb44645d45474b24d6b.png",
+    "static/media/landingPage-1.png": "/portfolio/static/media/landingPage-1.19fc41131ad6ac7c2155.png",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.52fd9862c8c0246bad2d.png",
+    "static/media/profile-1.png": "/portfolio/static/media/profile-1.f27367695c95a5be0e71.png",
+    "static/media/savedRecipes-2.png": "/portfolio/static/media/savedRecipes-2.5e1c76dac347393b7021.png",
+    "static/media/chatbotPage.png": "/portfolio/static/media/chatbotPage.75f3e28427f982a2704f.png",
+    "static/media/landingPage-2.png": "/portfolio/static/media/landingPage-2.985936d9651cf9b3dbed.png",
+    "static/media/twsi-results.png": "/portfolio/static/media/twsi-results.5d91b95c3057e4736a34.png",
+    "static/media/twsi.png": "/portfolio/static/media/twsi.b87aeaf17823f8d3a6ad.png",
+    "static/media/Chelsea_Dacones_Resume.pdf": "/portfolio/static/media/Chelsea_Dacones_Resume.c1a83dd5d1c499017179.pdf",
+    "static/media/monogram.png": "/portfolio/static/media/monogram.a6e9af4be542f328c58d.png",
+    "index.html": "/portfolio/index.html",
+    "main.b52a8cd0.css.map": "/portfolio/static/css/main.b52a8cd0.css.map",
+    "main.245e7325.js.map": "/portfolio/static/js/main.245e7325.js.map",
+    "787.2dcca737.chunk.js.map": "/portfolio/static/js/787.2dcca737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b52a8cd0.css",
+    "static/js/main.245e7325.js"
+  ]
+}
