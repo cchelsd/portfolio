@@ -51,6 +51,7 @@ const MyCarousel = () => {
         title: 'Personal Portfolio',
         description: 'An online portfolio offering an introduction, resume, and an in-depth \'About Me\' section. ' + 
             'Explore my showcased projects to delve into my expertise and accomplishments.',
+        link: 'https://github.com/cchelsd/portfolio.git',
         images: [
             {
                 image: 'portfolio.png', 
@@ -68,6 +69,7 @@ const MyCarousel = () => {
         description: 'A service wrapper for Azure Computer Vision API. TWSI transforms Azure\'s Computer Vision API into ' +
             'a RESTful web service accessible through a user-friendly web app. User\'s can easily utilize Computer Vision features including image analysis ' + 
             'and OCR (Optical Character Recognition).',
+        link: 'https://github.com/cchelsd/twsi.git',
         images: [
             {
                 image: 'twsi.png', 
