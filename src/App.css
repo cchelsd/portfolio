@@ -1,0 +1,161 @@
+.lilac {
+  color: #cab4ee;
+}
+
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background-color: #f1e8ff39;
+}
+
+#monogram {
+  width: 100px;
+  height: auto;
+  margin-right: -25px;
+}
+
+.navbar {
+  padding: 0;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+}
+
+.page {
+  margin: 80px 100px 80px 100px; 
+}
+
+#profilePhoto {
+  width: 90%;
+  height: auto;
+}
+
+.flex-container {
+  display: flex;
+}
+
+#aboutPage img {
+  margin-bottom: 20px;
+}
+
+#projectsPage p {
+  margin-bottom: 30px;
+}
+
+#projects {
+  display: flex;
+  margin: -12px;
+  justify-content: center;
+  align-items: center;
+  height: 680px;
+  background-color: #d3c1ef;
+}
+
+#projectsHeading {
+  background-color: rgba(255, 255, 255, 0.35);
+  border-radius: 50px;
+  padding: 10px;
+  text-align: center;
+}
+
+#projectsCarousel {
+  display: flex;
+  align-items: center;
+  border-radius: 50px;
+  background-color: rgba(255, 255, 255, 0.35);
+  height: 550px;
+  padding: 35px;
+  margin-top: 25px;
+}
+
+.navbar-brand:hover {
+  cursor: default;
+}
+
+.content-container {
+  padding: 50px 20px 50px 40px;
+  border: 2px solid white;
+  outline: 1px solid #cab4ee;
+  background-color: white;
+}
+
+.carousel-indicators {
+  bottom: -80px;
+}
+
+.carousel-control-next {
+  right: -150px;
+}
+
+.carousel-control-prev {
+  left: -150px;
+}
+
+.carousel-caption {
+  bottom: -20px;
+  background: rgba(255, 255, 255, 0.7);
+  width: 100%;
+  left: 0;
+  text-shadow: 1px 1px 2px rgba(255, 255, 255, 1);
+}
+
+.link-button {
+  background-color: #cab4ee;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  padding: 2.8% 4%;
+  border-radius: 7px;
+  font-size: 0.85em;
+  font-weight: 600;
+}
+
+.link-button:hover {
+  background-color: white;
+  outline: 3px solid #d3c1ef;
+  color: #cab4ee
+}
+
+#homePage {
+  margin-top: 200px;
+}
+
+#homePage .flex-container {
+  align-items: center;
+}
+
+.flex-child {
+  flex: 1;
+  text-align: center;
+}  
+
+.flex-child:first-child {
+  margin-right: 50px;
+  text-align: left;
+} 
+
+#aboutPage .flex-child {
+  text-align: left;
+}
+
+.fade-in-out {
+  opacity: 0;
+  transition: opacity 600ms ease-in-out; /* Adjust the duration here */
+}
+
+.fade-in-out.active {
+  opacity: 1;
+}
+
+.btn-primary {
+  background-color: #cab4ee;
+}
+
+.btn-primary:hover {
+  background-color: white;
+  outline: 3px solid #d3c1ef;
+  color: #cab4ee
+}
