@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9a48b385.css",
-    "main.js": "/portfolio/static/js/main.84532fdc.js",
+    "main.js": "/portfolio/static/js/main.eae5bf72.js",
     "static/js/787.2dcca737.chunk.js": "/portfolio/static/js/787.2dcca737.chunk.js",
-    "static/media/profile-1.png": "/portfolio/static/media/profile-1.f27367695c95a5be0e71.png",
     "static/media/bloommoods.png": "/portfolio/static/media/bloommoods.b129b1fe32db25622692.png",
     "static/media/dungeonAdventure.png": "/portfolio/static/media/dungeonAdventure.47e10be11f403662ea27.png",
     "static/media/snipscript.png": "/portfolio/static/media/snipscript.ed13987d22988b83a655.png",
     "static/media/budgetBytes.png": "/portfolio/static/media/budgetBytes.219bb86ca17d78897b37.png",
+    "static/media/profile-3.jpg": "/portfolio/static/media/profile-3.07b72adc7549b56cdc27.jpg",
     "static/media/tailwind-css-icon-2048x1229-u8dzt4uh.png": "/portfolio/static/media/tailwind-css-icon-2048x1229-u8dzt4uh.f0f26047a8933b822dae.png",
     "static/media/React-icon.svg.png": "/portfolio/static/media/React-icon.svg.81ed438b18e24116794d.png",
     "static/media/java-icon-1511x2048-6ikx8301.png": "/portfolio/static/media/java-icon-1511x2048-6ikx8301.1eb26d15c955096cc5ce.png",
@@ -23,11 +23,11 @@
     "static/media/scss.svg": "/portfolio/static/media/scss.75b59ba2b55fe30cb2931a8ad343b8c6.svg",
     "index.html": "/portfolio/index.html",
     "main.9a48b385.css.map": "/portfolio/static/css/main.9a48b385.css.map",
-    "main.84532fdc.js.map": "/portfolio/static/js/main.84532fdc.js.map",
+    "main.eae5bf72.js.map": "/portfolio/static/js/main.eae5bf72.js.map",
     "787.2dcca737.chunk.js.map": "/portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a48b385.css",
-    "static/js/main.84532fdc.js"
+    "static/js/main.eae5bf72.js"
   ]
 }
