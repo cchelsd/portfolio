@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9a48b385.css",
-    "main.js": "/portfolio/static/js/main.eae5bf72.js",
+    "main.js": "/portfolio/static/js/main.50cbeaf7.js",
     "static/js/787.2dcca737.chunk.js": "/portfolio/static/js/787.2dcca737.chunk.js",
     "static/media/bloommoods.png": "/portfolio/static/media/bloommoods.b129b1fe32db25622692.png",
     "static/media/dungeonAdventure.png": "/portfolio/static/media/dungeonAdventure.47e10be11f403662ea27.png",
@@ -23,11 +23,11 @@
     "static/media/scss.svg": "/portfolio/static/media/scss.75b59ba2b55fe30cb2931a8ad343b8c6.svg",
     "index.html": "/portfolio/index.html",
     "main.9a48b385.css.map": "/portfolio/static/css/main.9a48b385.css.map",
-    "main.eae5bf72.js.map": "/portfolio/static/js/main.eae5bf72.js.map",
+    "main.50cbeaf7.js.map": "/portfolio/static/js/main.50cbeaf7.js.map",
     "787.2dcca737.chunk.js.map": "/portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a48b385.css",
-    "static/js/main.eae5bf72.js"
+    "static/js/main.50cbeaf7.js"
   ]
 }
